@@ -11,3 +11,4 @@ rabbitmq:3.12.0-rc.2-management
 redis:7.0
 portainer/portainer-ce
 louislam/dockge
+postgres:16
