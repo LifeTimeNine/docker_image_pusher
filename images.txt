@@ -5,6 +5,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx:stable
 mysql:5.7
+mysql:5.7.16
 php:7.2-fpm
 php:7.4-fpm
 rabbitmq:3.12.0-rc.2-management
