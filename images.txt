@@ -9,5 +9,5 @@ php:7.2-fpm
 php:7.4-fpm
 rabbitmq:3.12.0-rc.2-management
 redis:7.0
-portainer-ce
+portainer/portainer-ce
 
