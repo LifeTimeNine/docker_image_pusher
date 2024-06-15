@@ -12,3 +12,4 @@ redis:7.0
 portainer/portainer-ce
 louislam/dockge
 postgres:16
+mongo:6.0
